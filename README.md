@@ -1,0 +1,1 @@
+# mpv-thumbnail.yazi
