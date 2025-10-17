@@ -102,7 +102,7 @@ function M:preload(job)
 
 	-- method 3
 	local cmd = Command("vimg"):arg({
-		"vcs", "-c3", "-H288", "-n9", "-f1"
+		"vcs", "-c3", "-H160", "-n9"
 	})
 
 	local status, err = cmd:arg({
